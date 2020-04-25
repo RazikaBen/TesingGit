@@ -1,0 +1,13 @@
+C:\Users\razik\source\repos\howToCOde\howToCOde\obj\Debug\netcoreapp3.1\howToCOde.csprojAssemblyReference.cache
+C:\Users\razik\source\repos\howToCOde\howToCOde\obj\Debug\netcoreapp3.1\howToCOde.csproj.CoreCompileInputs.cache
+C:\Users\razik\source\repos\howToCOde\howToCOde\obj\Debug\netcoreapp3.1\howToCOde.AssemblyInfoInputs.cache
+C:\Users\razik\source\repos\howToCOde\howToCOde\obj\Debug\netcoreapp3.1\howToCOde.AssemblyInfo.cs
+C:\Users\razik\source\repos\howToCOde\howToCOde\bin\Debug\netcoreapp3.1\howToCOde.exe
+C:\Users\razik\source\repos\howToCOde\howToCOde\bin\Debug\netcoreapp3.1\howToCOde.deps.json
+C:\Users\razik\source\repos\howToCOde\howToCOde\bin\Debug\netcoreapp3.1\howToCOde.runtimeconfig.json
+C:\Users\razik\source\repos\howToCOde\howToCOde\bin\Debug\netcoreapp3.1\howToCOde.runtimeconfig.dev.json
+C:\Users\razik\source\repos\howToCOde\howToCOde\bin\Debug\netcoreapp3.1\howToCOde.dll
+C:\Users\razik\source\repos\howToCOde\howToCOde\bin\Debug\netcoreapp3.1\howToCOde.pdb
+C:\Users\razik\source\repos\howToCOde\howToCOde\obj\Debug\netcoreapp3.1\howToCOde.dll
+C:\Users\razik\source\repos\howToCOde\howToCOde\obj\Debug\netcoreapp3.1\howToCOde.pdb
+C:\Users\razik\source\repos\howToCOde\howToCOde\obj\Debug\netcoreapp3.1\howToCOde.genruntimeconfig.cache
