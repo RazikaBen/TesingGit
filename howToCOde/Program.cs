@@ -9,6 +9,7 @@ namespace howToCOde
     {
         static void Main(string[] args)
         {
+            
             /*  foreach(var a in UniqueInOrder("AAAABBBCCDAABBB"))
                {
                  Console.WriteLine(a);
